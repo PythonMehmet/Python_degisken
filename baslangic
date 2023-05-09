@@ -1,4 +1,9 @@
-Python da değişkenler
+Python veri tipleri ve özellikleri.
+
 "int"
 "str"
-"
+"float"
+"bool"
+"list"
+"tupple"
+
